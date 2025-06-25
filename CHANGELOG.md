@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-25)
 
 <section class="features">
 
 ### Features
 
+-   [`6a3edd8`](https://github.com/stdlib-js/stdlib/commit/6a3edd843858d5fd7faa074bf02d8757baa7ff36) - add C implementation for `stats/base/dists/bradford/quantile`
 -   [`b2b2c84`](https://github.com/stdlib-js/stdlib/commit/b2b2c8452743fd7096114ec524524b8d0b817ab4) - add `stats/base/dists/bradford/quantile` [(#5295)](https://github.com/stdlib-js/stdlib/pull/5295)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`6a3edd8`](https://github.com/stdlib-js/stdlib/commit/6a3edd843858d5fd7faa074bf02d8757baa7ff36) - **feat:** add C implementation for `stats/base/dists/bradford/quantile` _(by Philipp Burckhardt)_
 -   [`a594d58`](https://github.com/stdlib-js/stdlib/commit/a594d58d530900e5f90dab88494520c09f01ee35) - **chore:** adds `opts` [(#6909)](https://github.com/stdlib-js/stdlib/pull/6909) _(by Harsh)_
 -   [`379390a`](https://github.com/stdlib-js/stdlib/commit/379390a688ef3f94fb7a2dfdfbfbd940bd1cb28a) - **docs:** replace manual `for` loop in examples [(#6907)](https://github.com/stdlib-js/stdlib/pull/6907) _(by Harsh)_
 -   [`ba14f27`](https://github.com/stdlib-js/stdlib/commit/ba14f27dc87766c75bc71eb63a858b4db6614740) - **docs:** fix example values in `stats/base/dists/bradford/quantile` [(#5846)](https://github.com/stdlib-js/stdlib/pull/5846) _(by Karan Anand)_
