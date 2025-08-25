@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-06)
+## Unreleased (2025-08-25)
 
 <section class="features">
 
@@ -23,6 +23,8 @@
 
 <details>
 
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`1d1fa58`](https://github.com/stdlib-js/stdlib/commit/1d1fa5859f36b155e3a74a27790a5cd7a14ac84a) - **chore:** clean-up _(by Athan Reines)_
 -   [`c562195`](https://github.com/stdlib-js/stdlib/commit/c562195df34a35546bcbd17e199802a9dd5e75aa) - **bench:** use correct Makefile for remaining Bradford distribution functions _(by Philipp Burckhardt)_
 -   [`6a3edd8`](https://github.com/stdlib-js/stdlib/commit/6a3edd843858d5fd7faa074bf02d8757baa7ff36) - **feat:** add C implementation for `stats/base/dists/bradford/quantile` _(by Philipp Burckhardt)_
